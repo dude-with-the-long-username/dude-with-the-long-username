@@ -32,6 +32,7 @@
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="python" src="attachments/logos/python.svg" width="48px" />  
 <img align="left" alt="SQL" src="attachments/logos/sql.png" width="48px" />
+<img align="left" alt="bash" src="attachments/logos/bash.png" width="48px" />
 </div>
 
 <br />
