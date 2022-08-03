@@ -6,7 +6,7 @@
 
   <br /><br />
   <samp>
-    I'm <a href="https://www.linkedin.com/in/rajeshg3/">Rajesh G</a>, a passionate Developer and Open Source enthusiast. I enjoy working on fascinating projects that push the boundaries of what I once thought was possible with computers.
+    I'm <a href="https://www.linkedin.com/in/rajeshg3/">Rajesh G</a>, a passionate Open Source enthusiast & Developer. I enjoy working on projects that're fascinating & make life more interesting/easier, be it ever so slightly.
   </samp>
   <br /><br />
   <p align="center">
@@ -22,9 +22,7 @@
 </p>
 
 - 🌱 I'm currently learning **Python, Js and CS Fundamentals**  :thinking:
-- 👯 I'm looking to collaborate on **OpenSource software that are worth existing** :slightly_smiling_face:
 - 💬 Ask me about **Linux, self hosting & software recommendations** :grin:
-- :sparkles: Ambivert :wink:
 - ⚡ Fun fact: I :heart: anime, reading & walks
 
 <!-- logos downloaded from www.icons8.com-->
