@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="attachments/main-page-gifs/coding%202.gif" width=300>
-  <!-- <img src="attachments/retro%20coding.gif" width=300> -->
+  <!-- <img src="attachments/coding%20fire.gif" width=300> -->
 
   <br /><br />
   <samp>
