@@ -1,7 +1,7 @@
 ### **Hola!**
 
 <p align="center">
-  <img src="attachments/main-page-gifs/coding%202.gif" width=300>
+  <img src="attachments/main-page-gifs/coding%20fire.gif" width=300>
   <!-- <img src="attachments/retro%20coding.gif" width=300> -->
 
   <br /><br />
@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I :heart: anime, reading & walks
 
 <!-- logos downloaded from www.icons8.com-->
-### Experienced in (languages): 
+### 💪 Experienced in (languages): 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="python" src="attachments/logos/python.svg" width="48px" />  
 <img align="left" alt="SQL" src="attachments/logos/sql.png" width="48px" />
@@ -37,7 +37,7 @@
 <br />
 <br />
 
-### Experienced in (Frameworks/Tools/Platforms): 
+### 💪 Experienced in (Frameworks/Tools/Platforms): 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="linux" src="attachments/logos/linux.png" width="48px" />
 <img align="left" alt="docker" src="attachments/logos/docker.png" width="48px" />  
@@ -50,7 +50,7 @@
 <br />
 <br />
 
-### My Recent Blog Posts
+### 🚨 My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Pirate&#39;s Home Theatre](https://rajeshg.hashnode.dev/the-pirates-home-theatre)
 - [The beauty of Open Source  ✨](https://rajeshg.hashnode.dev/the-beauty-of-open-source)
