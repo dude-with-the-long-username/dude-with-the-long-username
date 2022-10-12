@@ -49,3 +49,11 @@
 <br />
 <br />
 <br />
+
+### My Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+<br />
+<br />
