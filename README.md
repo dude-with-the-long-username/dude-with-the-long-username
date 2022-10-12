@@ -52,6 +52,9 @@
 
 ### My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Pirate&#39;s Home Theatre](https://rajeshg.hashnode.dev/the-pirates-home-theatre)
+- [The beauty of Open Source  ✨](https://rajeshg.hashnode.dev/the-beauty-of-open-source)
+- [Your Router &lpar;probably&rpar; sucks &amp; what you can do about it.](https://rajeshg.hashnode.dev/your-router-probably-sucks-and-what-you-can-do-about-it)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
