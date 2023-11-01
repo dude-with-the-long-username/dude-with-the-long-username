@@ -52,11 +52,11 @@
 
 ### 🚨 My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The FOSS Couch Gamer](https://rajeshg.hashnode.dev/the-foss-couch-gamer)
 - [The Pirate&#39;s Home TV](https://rajeshg.hashnode.dev/the-pirates-home-tv)
 - [My Home Server Setup [ part 5 ] : Cool software](https://rajeshg.hashnode.dev/my-home-server-setup-part-5-cool-software)
 - [My Home Server Setup [Part 4]: Management](https://rajeshg.hashnode.dev/my-home-server-setup-part-4-management)
 - [My home server setup [part 3]: The platform&lpar;OS&rpar;](https://rajeshg.hashnode.dev/my-home-server-setup-part-3-the-platformos)
-- [My Home Server Setup [part 2]: What?](https://rajeshg.hashnode.dev/my-home-server-setup-part-2-what)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
