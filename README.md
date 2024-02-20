@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/rajeshg3/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://rajeshg.hashnode.dev/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
 </p>
 
 - 🌱 I'm currently learning **Python, Js and CS Fundamentals**  :thinking:
